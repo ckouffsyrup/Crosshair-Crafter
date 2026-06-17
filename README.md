@@ -39,8 +39,7 @@ Crosshair overlays usually work best in borderless/windowed mode. Some games or 
 
 ## Credits
 
-Created by Carl.  
-Built with ChatGPT.
+Created by Carl.
 
 
 ## v1.0.1 Bug Patch

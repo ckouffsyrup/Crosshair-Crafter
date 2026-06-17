@@ -1,0 +1,70 @@
+{
+  "presets": {
+    "Starter Purple": {
+      "mode": "generated",
+      "color": "#a78bfa",
+      "preview_bg": "grid",
+      "window_geometry": "1201x835",
+      "first_run_seen": false,
+      "launch_on_startup": false,
+      "generated": {
+        "h_length": 28,
+        "v_length": 28,
+        "h_gap": 8,
+        "v_gap": 8,
+        "thickness": 3,
+        "outline": true,
+        "outline_thickness": 2,
+        "dot": true,
+        "dot_size": 3,
+        "rotation": 0,
+        "opacity": 100
+      },
+      "image": {
+        "path": "",
+        "size": 80,
+        "stretch_x": 100,
+        "stretch_y": 100,
+        "rotation": 0,
+        "flip_x": false,
+        "flip_y": false,
+        "opacity": 100,
+        "offset_x": 0,
+        "offset_y": 0
+      }
+    },
+    "Tiny Dot PNG": {
+      "mode": "image",
+      "color": "#8b5cf6",
+      "preview_bg": "grid",
+      "window_geometry": "1201x835",
+      "first_run_seen": false,
+      "launch_on_startup": false,
+      "generated": {
+        "h_length": 34,
+        "v_length": 34,
+        "h_gap": 10,
+        "v_gap": 10,
+        "thickness": 4,
+        "outline": true,
+        "outline_thickness": 2,
+        "dot": true,
+        "dot_size": 4,
+        "rotation": 0,
+        "opacity": 100
+      },
+      "image": {
+        "path": "C:\\Users\\Karcen\\Documents\\CrosshairCrafter\\assets\\samples\\tiny_purple_dot.png",
+        "size": 42,
+        "stretch_x": 100,
+        "stretch_y": 100,
+        "rotation": 0,
+        "flip_x": false,
+        "flip_y": false,
+        "opacity": 100,
+        "offset_x": 0,
+        "offset_y": 0
+      }
+    }
+  }
+}

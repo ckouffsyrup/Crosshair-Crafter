@@ -1,0 +1,33 @@
+{
+  "mode": "generated",
+  "color": "#8b5cf6",
+  "preview_bg": "grid",
+  "window_geometry": "1201x835+466+56",
+  "first_run_seen": false,
+  "launch_on_startup": false,
+  "generated": {
+    "h_length": 34,
+    "v_length": 34,
+    "h_gap": 10,
+    "v_gap": 10,
+    "thickness": 4,
+    "outline": true,
+    "outline_thickness": 2,
+    "dot": true,
+    "dot_size": 4,
+    "rotation": 0,
+    "opacity": 100
+  },
+  "image": {
+    "path": "",
+    "size": 80,
+    "stretch_x": 100,
+    "stretch_y": 100,
+    "rotation": 0,
+    "flip_x": false,
+    "flip_y": false,
+    "opacity": 100,
+    "offset_x": 0,
+    "offset_y": 0
+  }
+}

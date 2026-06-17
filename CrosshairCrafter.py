@@ -625,7 +625,7 @@ class App:
             "A lightweight custom crosshair utility built for gamers who just want something that works.",
             "Final polish: built-in presets, sharing codes, favorites, preset packs, safer config handling, and a cleaner UI.",
             "No tray. No hotkeys. Clean editor + click-through overlay only.",
-            "Created by Carl. Built with ChatGPT.",
+            "Created by Carl.",
             "Thanks for using Crosshair Crafter ❤️"
         ]
         for line in lines:
